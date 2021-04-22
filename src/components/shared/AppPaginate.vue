@@ -69,3 +69,9 @@ export default {
     </ul>
   </div>
 </template>
+
+<style>
+  .pagination ul li{
+    margin:0 3px;
+  }
+</style>
